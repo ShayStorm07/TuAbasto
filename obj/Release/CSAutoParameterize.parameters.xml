@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="LOCAL-Web.config Connection String" description="LOCAL Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=ALEJANDRO\SQLEXPRESS;     Initial Catalog=Web; Persist Security Info=True; Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\aleja\\Documents\\Trabajo\ Visual\ Web\\Primer\ Sitio\\Primer\ Sitio\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LOCAL']/@connectionString" />
+  </parameter>
+</parameters>
